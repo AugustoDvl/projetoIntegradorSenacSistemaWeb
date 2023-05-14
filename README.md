@@ -1,6 +1,6 @@
 # projetoIntegradorSenacSistemaWeb
 Trabalho realizado para atividade avaliativa Projeto Integrador 2023 Sistema Web Modularizavel - Senac
-Integrantes: Augusto Andrade Gama, Danielli Almeida da Luz, Everton Portela Alves, Lincon Aparecido Reimberg Oliveira.
+Integrantes: Augusto Andrade Gama, Danielli Almeida da Luz, Everton Portela Alves, Lincon Aparecido Reimberg Oliveira. Grupo A 2, segunda entrega.
 
 Requisitos necessarios para rodar a aplicação: Pacote de desenvolvimento PHP Xampp ou servidor com suporte apache de sua preferencia,
 computador para visualização e interação com a aplicação, navegador Web de sua preferencia.
